@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "416789879068",
+    "firebase_url": "https://fir-notification-dbecc.firebaseio.com",
+    "project_id": "fir-notification-dbecc",
+    "storage_bucket": "fir-notification-dbecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416789879068:android:0afd451a7a1e7571",
+        "android_client_info": {
+          "package_name": "com.agroproject.mohankumardhakal.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416789879068-vu9fkabj03bs652lmr8naohe19nsurou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCl5HkkOLsm6WFut6p-iJbS_sQ6tbKGv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416789879068-vu9fkabj03bs652lmr8naohe19nsurou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416789879068:android:91712484f9073b7f",
+        "android_client_info": {
+          "package_name": "com.agroproject.mohankumardhakal.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416789879068-vu9fkabj03bs652lmr8naohe19nsurou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCl5HkkOLsm6WFut6p-iJbS_sQ6tbKGv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416789879068-vu9fkabj03bs652lmr8naohe19nsurou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
